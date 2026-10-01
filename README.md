@@ -21,16 +21,31 @@
 
 ## 📦 最新版本
 
-**当前最新版本：v0.1.3**
+**当前最新版本：v0.1.4（2026-10-01）**
 
 - Android：APK 安装包
 - Windows：ZIP 压缩包
-- 更新方式：当前版本仍以完整安装包更新为主
+- 更新方式：0.1.4 支持资源与 C# 游戏代码热更新；旧版玩家先覆盖安装一次 0.1.4
 
 👉 **前往下载最新版本：**  
 [点击进入 Releases 下载页面](https://github.com/3206789615/shenren-game-download/releases/latest)
 
 ---
+
+
+## 0.1.4 下载与热更新
+
+- [Android APK（约 226.3 MiB）](https://github.com/3206789615/shenren-game-download/releases/download/v0.1.4/ShenrenDaluandou-0.1.4-Android.apk)
+- [Windows 完整 ZIP（约 233.6 MiB）](https://github.com/3206789615/shenren-game-download/releases/download/v0.1.4/ShenrenDaluandou-0.1.4-Windows.zip)
+- [0.1.4 更新说明与 SHA-256 校验文件](https://github.com/3206789615/shenren-game-download/releases/tag/v0.1.4)
+
+本版支持 Addressables 资源与 C# 游戏逻辑热更新。后续兼容的新增武将、技能、AI、数值、界面、立绘和配音可在游戏启动时下载，无需重新安装；首次离线启动及缓存更新离线使用均可用。升级 Unity、原生插件或系统权限仍需要新安装包。旧版玩家需要先覆盖安装一次 0.1.4。
+
+新档初始招募令为 **100 张**，原有美术保持原样。本版补齐蓝色大肥鱼 AI 自喂食配音，修复龙胆/喂食连续切换，以及古振兴、Notch 双雄决斗的无懈响应按钮状态。
+
+APK 安装后显示“神人大乱斗杀”和原游戏图标，沿用旧包名和签名。GitHub 附件使用英文文件名；QQ/微信能否直接打开安装器由聊天软件和手机系统决定，可从系统文件管理器打开下载后的 APK。Windows 请完整解压后运行 `ShenrenDaluandou.exe`。
+
+Windows 启动、GitHub 实际热更新下载、离线缓存及失败回退检查已通过。Android 安装包签名、双架构和热更新运行库已验证，尚未完成真机运行验证。
 
 ## ✨ 当前试玩内容
 
@@ -68,6 +83,12 @@
 ---
 
 ## 📝 更新日志
+
+### v0.1.4
+- 加入资源与 C# 游戏代码热更新，兼容的内容更新无需重新安装
+- 新增武将、技能与配音，优化 AI 和对局体验
+- 修复喂食配音、技能切换与双雄无懈响应的按钮状态
+- 初始招募令保持 100 张，保留原有美术
 
 ### v0.1.3
 - 优化 AI 敌我判断与锦囊使用
