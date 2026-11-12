@@ -22,9 +22,15 @@
 
 ---
 
-<img width="1920" height="864" alt="试玩案例" src="https://github.com/user-attachments/assets/df5ff248-be17-4374-b4c5-e61435aa026d" />
-<img width="1920" height="864" alt="试玩案例2" src="https://github.com/user-attachments/assets/1fcbab61-ddf0-45cc-b298-a737f83db0cb" />
-<img width="1920" height="864" alt="试玩案例3" src="https://github.com/user-attachments/assets/32553c53-58e2-4dd6-a849-abc054a27cbc" />
+<img width="959" height="542" alt="屏幕截图 2026-11-12 180643" src="https://github.com/user-attachments/assets/bb22bcd8-7b90-4a41-9e16-be69646f44de" />
+<img width="959" height="542" alt="屏幕截图 2026-11-12 180629" src="https://github.com/user-attachments/assets/2047729c-4039-4fa0-8d35-a63a71c7a1c7" />
+<img width="965" height="542" alt="屏幕截图 2026-11-12 181049" src="https://github.com/user-attachments/assets/d6a17ac3-b207-4583-86f5-0ab8b77ac609" />
+<img width="965" height="542" alt="屏幕截图 2026-11-12 181003" src="https://github.com/user-attachments/assets/0e41a8a4-48c9-4833-a299-a202f3b17ae8" />
+<img width="966" height="552" alt="屏幕截图 2026-11-12 180933" src="https://github.com/user-attachments/assets/52773660-7357-48cc-92b8-675ea4393330" />
+<img width="960" height="542" alt="屏幕截图 2026-11-12 180810" src="https://github.com/user-attachments/assets/f4c5522b-c26f-45e8-bc63-d02b3ae36862" />
+<img width="970" height="542" alt="屏幕截图 2026-11-12 180736" src="https://github.com/user-attachments/assets/d2e1230b-6920-4adc-8c6c-8368213337b3" />
+<img width="956" height="542" alt="屏幕截图 2026-11-12 180722" src="https://github.com/user-attachments/assets/59b22b2c-ee7f-4fd0-9f84-bad224ca63b6" />
+
 
 ## ✨ 当前试玩内容
 
