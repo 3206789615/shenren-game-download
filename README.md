@@ -22,14 +22,15 @@
 
 ---
 
-<img width="959" height="542" alt="屏幕截图 2026-11-12 180643" src="https://github.com/user-attachments/assets/bb22bcd8-7b90-4a41-9e16-be69646f44de" />
-<img width="959" height="542" alt="屏幕截图 2026-11-12 180629" src="https://github.com/user-attachments/assets/2047729c-4039-4fa0-8d35-a63a71c7a1c7" />
-<img width="965" height="542" alt="屏幕截图 2026-11-12 181049" src="https://github.com/user-attachments/assets/d6a17ac3-b207-4583-86f5-0ab8b77ac609" />
-<img width="965" height="542" alt="屏幕截图 2026-11-12 181003" src="https://github.com/user-attachments/assets/0e41a8a4-48c9-4833-a299-a202f3b17ae8" />
-<img width="966" height="552" alt="屏幕截图 2026-11-12 180933" src="https://github.com/user-attachments/assets/52773660-7357-48cc-92b8-675ea4393330" />
-<img width="960" height="542" alt="屏幕截图 2026-11-12 180810" src="https://github.com/user-attachments/assets/f4c5522b-c26f-45e8-bc63-d02b3ae36862" />
-<img width="970" height="542" alt="屏幕截图 2026-11-12 180736" src="https://github.com/user-attachments/assets/d2e1230b-6920-4adc-8c6c-8368213337b3" />
-<img width="956" height="542" alt="屏幕截图 2026-11-12 180722" src="https://github.com/user-attachments/assets/59b22b2c-ee7f-4fd0-9f84-bad224ca63b6" />
+<img width="962" height="547" alt="屏幕截图 2026-11-14 221639" src="https://github.com/user-attachments/assets/c8aab644-299f-478f-9179-18b27c9e46dd" />
+<img width="962" height="545" alt="屏幕截图 2026-11-14 221627" src="https://github.com/user-attachments/assets/cb14d31d-005c-404c-ae26-076e4b2c07fc" />
+<img width="963" height="543" alt="屏幕截图 2026-11-14 221446" src="https://github.com/user-attachments/assets/4eee3e1a-e53a-49cc-9f04-1a3433a0f56b" />
+<img width="961" height="542" alt="屏幕截图 2026-11-14 221407" src="https://github.com/user-attachments/assets/36d22ec5-2762-46ec-9ced-f1a45c3362df" />
+<img width="965" height="547" alt="屏幕截图 2026-11-14 221338" src="https://github.com/user-attachments/assets/aedb4338-169c-45f8-9b41-fb43ee09e925" />
+<img width="959" height="545" alt="屏幕截图 2026-11-14 221319" src="https://github.com/user-attachments/assets/22e5e643-1d23-4f75-aca7-4cdcee5d4e8e" />
+<img width="961" height="544" alt="屏幕截图 2026-11-14 221206" src="https://github.com/user-attachments/assets/ed8d6e6c-7196-4fda-b207-3a6013704efc" />
+<img width="965" height="544" alt="屏幕截图 2026-11-14 221119" src="https://github.com/user-attachments/assets/333e6966-9527-48f2-bd35-c01289b4bdf9" />
+<img width="963" height="541" alt="屏幕截图 2026-11-14 221716" src="https://github.com/user-attachments/assets/2b0ddf33-47bf-44b2-8d4d-b1edf0d12007" />
 
 
 ## ✨ 当前试玩内容
